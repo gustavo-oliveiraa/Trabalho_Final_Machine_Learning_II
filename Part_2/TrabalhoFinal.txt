@@ -1,0 +1,5 @@
+1 – EDA
+2 – Preprocessamento
+3 – Modelo
+4 – Avaliar (Métricas)
+5 – EDA de cada cluster
